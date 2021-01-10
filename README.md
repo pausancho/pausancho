@@ -9,7 +9,7 @@ I am a Sports Analytics enthusiast and Data Analyst. I am passionate about techn
 ---
 
 <p align="center">
-<img src="https://camo.githubusercontent.com/144f7c7166c868fad966d4b9e52126728e9a31c0d75cef4562e49e215a79010e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3337373641422e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="logos/gratis-png-python-javascript-logo-clojure-logo-de-python-thumbnail.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://camo.githubusercontent.com/53567db8766a669e135ca022163c0a1b4d394d13220732391fa94130214a8fc5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a7570797465722d4633363331442e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a757079746572266c6f676f436f6c6f723d7768697465" alt="Jupyter" height="40" style="vertical-align:top; margin:4px">
 <img src="https://camo.githubusercontent.com/e06b2c1d10250975f17992d147486a5efc58e89d735dbbd6e200301dd3d5bb90/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d3434373941312e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
 </p>
