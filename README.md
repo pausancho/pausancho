@@ -1,7 +1,8 @@
 ### Hi, I´m Pau!👋
 
-I am a sports analytics enthusiast and Data Analyst. I am passionate about technologies and I love to lear new things especially anything related with sabermetrics.
+I am a Sports Analytics enthusiast and Data Analyst. I am passionate about technologies and I love to lear new things especially anything related with sabermetrics.
 
+#### :zap: Tech Stack 
 <!--
 **pausancho/pausancho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
