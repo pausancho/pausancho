@@ -1,18 +1,45 @@
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/devicon.min.css">
-
-<!--  for git plain version -->
-<svg class="devicon-git-plain" viewBox="0 0 128 128">
-  <path fill="#F34F29" d="M124.742,58.378L69.625,3.264c-3.172-3.174-8.32-3.174-11.497,0L46.685,14.71l14.518,14.518c3.375-1.139,7.243-0.375,9.932,2.314c2.703,2.706,3.462,6.607,2.293,9.993L87.42,55.529c3.385-1.167,7.292-0.413,9.994,2.295c3.78,3.777,3.78,9.9,0,13.679c-3.78,3.78-9.901,3.78-13.683,0c-2.842-2.844-3.545-7.019-2.105-10.521L68.578,47.933l-0.002,34.341c0.922,0.455,1.791,1.063,2.559,1.828c3.779,3.777,3.779,9.898,0,13.683c-3.779,3.777-9.904,3.777-13.679,0c-3.778-3.784-4.088-9.905-0.311-13.683C58.079,83.169,59,82.464,60,81.992V47.333c-1-0.472-1.92-1.172-2.856-2.111c-2.861-2.86-3.396-7.06-1.928-10.576L40.983,20.333L3.229,58.123c-3.175,3.177-3.155,8.325,0.02,11.5l55.126,55.114c3.173,3.174,8.325,3.174,11.503,0l54.86-54.858C127.913,66.703,127.916,61.552,124.742,58.378z"/>
-</svg>
-
 ### Hi, I´m Pau!👋
+---
+![](https://visitor-badge.laobi.icu/badge?page_id=pausancho.pausancho)
+[![Github](https://img.shields.io/github/followers/pausancho?label=Follow&style=social)](https://github.com/pausancho)
 
 I am a Sports Analytics enthusiast and Data Analyst. I am passionate about technologies and I love to lear new things especially anything related with sabermetrics. :baseball:
 
-#### :hammer_and_wrench:  My Tech Stack 
+#### :hammer_and_wrench: My Tech Stack 
+---
 
-<i class="devicon-github-original-wordmark colored"></i>
+<p align="center">
+<img src="https://camo.githubusercontent.com/144f7c7166c868fad966d4b9e52126728e9a31c0d75cef4562e49e215a79010e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3337373641422e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://camo.githubusercontent.com/53567db8766a669e135ca022163c0a1b4d394d13220732391fa94130214a8fc5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a7570797465722d4633363331442e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a757079746572266c6f676f436f6c6f723d7768697465" alt="Jupyter" height="40" style="vertical-align:top; margin:4px">
+<img src="https://camo.githubusercontent.com/e06b2c1d10250975f17992d147486a5efc58e89d735dbbd6e200301dd3d5bb90/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d3434373941312e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
+<img src="https://camo.githubusercontent.com/73341109fc8df9626d5c52fded5c2390af1f3817759605f944afca3a0aac18c0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7375626c696d652d4646393830302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7375626c696d652d74657874266c6f676f436f6c6f723d7768697465" alt="Sublime" height="40" style="vertical-align:top; margin:4px">
+<img src="https://camo.githubusercontent.com/3890673a1d859f7de099847ab7b1aae44bf767049ac9c6e148084964cb2c4739/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73716c6974652d3743424545342e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465" alt="SQLITE" height="40" style="vertical-align:top; margin:4px">
+
+
+
+<img src="" alt="" height="40" style="vertical-align:top; margin:4px">
+  
+</p>
+
+<img src="" alt="git" height="40" style="vertical-align:top; margin:4px">
+
+
+
+
+#### :envelope: Find me on:
+---
+
+
+
+#### :blue_book: Blog Posts:
+---
+
+#### :chart_with_upwards_trend: My Github Stats:
+---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pausancho&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pausancho&theme=tokyonight)
+
+
 
 <!--
 **pausancho/pausancho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
