@@ -1,9 +1,11 @@
 ### Hi, I´m Pau!👋
 
+I am a sports analytics enthusiast and Data Analyst. I am passionate about technologies and I love to lear new things especially anything related with sabermetrics.
+
 <!--
 **pausancho/pausancho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I am a sports analytics enthusiast and Data Analyst. I am passionate about technologies and I love to lear new things especially anything related with sabermetrics. 
+ 
 
 Here are some ideas to get you started:
 
