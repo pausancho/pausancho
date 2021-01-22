@@ -9,7 +9,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=pausancho.pausancho)
 [![Github](https://img.shields.io/github/followers/pausancho?label=Follow&style=social)](https://github.com/pausancho)
 
-I am a Sports Analytics enthusiast and Data Analyst. I am passionate about technologies and I love to lear new things especially anything related to sabermetrics. :baseball:
+I am a Data analyst and sports analytics enthusiast. I am passionate about technology and I love to learn new things especially anything related to sabermetrics. :baseball:
 
 #### :hammer_and_wrench: My Tech Stack 
 
